@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor-header{
+    padding: 20px;
+    background-color: red;
+    display: flex;
+    justify-content:space-around;
+  
+
+}
+.web-recuadro{
+    
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   
+    
+}
+
+
+.div-nav{
+    padding-right: 400px;
+    
+   }
+
+.div-nav a{
+
+    text-decoration: none;
+    padding: 15px;
+    margin: 0px 5px;
+    color: white;
+    background: rgb(176, 164, 164);
+    border-radius: 20px;
+    
+    
+    
+
+    
+    
+}
+
+.titulo1{
+    padding: 20px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+.parrafo{
+    padding: 20px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.secciones{
+    padding: 15px;
+    background-color: red;
+}
+
+.seccion1{
+    color: white;
+    display: flex;
+    justify-content: center;
+   
+
+
+}
+
+.seccion2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    padding: 90px;
+}
+
+.contacto{
+    padding: 80px;
+    background-color: black;
+}
+.contacto1{
+    display: flex;
+    justify-content: center;
+}
+
+
+.fin{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
